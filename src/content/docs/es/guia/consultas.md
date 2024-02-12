@@ -42,6 +42,26 @@ Esta sección nos muestra las consultas en formato lista. Al entrar, las consult
 
 Dentro de ese orden, la consultas se muestran por orden de entrada
 
-## Página de consulta
+### Página de consulta
 
-Para acceder a una consulta podemos hacer click en el nombre del cliente en la consulta. Haz click aquí para saber más sobre la página de consulta.
+Para acceder a una consulta podemos hacer click en el nombre del cliente en la consulta. Haz [click aquí](../pagina-consulta) para saber más sobre la página de consulta.
+
+## Consultas atendidas
+
+Esta sección se sitúa en la parte inferior de consultas. Se pueden filtrar las consultas entrantes de un día específico y comparar aquellas que en algún momento fueron atendidas, tanto si se accedió a la conversación de Whatsapp como si se contestó alguna vez en la bandeja de entrada.
+
+En el filtro de fecha se indica el día de las consultas a filtrar para mostrar el listado.
+
+![Consultas atendidas](../../../../assets/images/guia/consultas_atendidas.png "Consultas etendidas")
+
+Una vez listadas se observan 5 columnas:
+
+- ID de la consulta
+- Nombre del cliente
+- Fecha entrante
+- Atención a través de Whatsapp
+- Atención a través de Email
+
+Los campos de atención hacen referencia a si la consulta fué atendida a trvés de Whatsapp o Email. En caso de haber sido atendida se mostrará un tick verde ✅ junto al nombre del operario que realizó la acción y la fecha y hora de la atención.
+
+Si se hace click en un registro accederemos a la página de la consulta correspondiente.

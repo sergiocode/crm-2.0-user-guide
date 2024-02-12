@@ -7,7 +7,7 @@ Bienvenido al CRM de Alsa Digital Consulting. Inicia sesión en la plataforma co
 
 ![Inicio de sesión](../../../../assets/images/guia/iniciar-sesion.png "Inicio de sesión")
 
-Si no recuerda su contraseña póngase en contacto con su administrador o envíe un correo a alsadigitalconsulting@gmail.com
+Si no recuerda su contraseña póngase en contacto con su administrador o envíe un correo a <alsadigitalconsulting@gmail.com>
 
 ## Funciones
 

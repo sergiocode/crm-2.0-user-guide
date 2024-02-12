@@ -3,12 +3,12 @@ title: Welcome
 description: Welcome to Alsa Digital Consulting CRM
 ---
 
-Welcome to Alsa Digital Consulting CRM. Inicia sesión en la plataforma con tu correo electrónico y contraseña para acceder a tu area privada.
+Welcome to Alsa Digital Consulting CRM. Please log in to the platform using your email address and password to access your private area.
 
-![Inicio de sesión](../../../../assets/images/guia/iniciar-sesion.png "Inicio de sesión")
+![Login](../../../../assets/images/guia/iniciar-sesion.png "Login")
 
-Si no recuerda su contraseña póngase en contacto con su administrador o envíe un correo a alsadigitalconsulting@gmail.com
+If you have forgotten your password, please contact your administrator or send an email to <alsadigitalconsulting@gmail.com>.
 
-## Funciones
+## Features
 
-El CRM de Alsa Digital Consulting ofrece una serie de herramientas para gestionar tus clientes, consultas entrantes, eventos y tareas. Ahora disponemos de una tienda de plugins donde podrás adquirir nuevas funciones para tu sistema.
+Alsa Digital Consulting CRM provides a range of tools to manage your clients, incoming inquiries, events, and tasks. We now offer a plugin store where you can acquire new functionalities for your system.

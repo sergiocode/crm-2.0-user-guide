@@ -304,6 +304,13 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
+"es/guia/analytics.md": {
+	id: "es/guia/analytics.md";
+  slug: "es/guia/analytics";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
 "es/guia/bienvenido.md": {
 	id: "es/guia/bienvenido.md";
   slug: "es/guia/bienvenido";
@@ -318,9 +325,23 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"es/guia/chats.md": {
-	id: "es/guia/chats.md";
-  slug: "es/guia/chats";
+"es/guia/cambiar-clave.md": {
+	id: "es/guia/cambiar-clave.md";
+  slug: "es/guia/cambiar-clave";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"es/guia/carpetas.md": {
+	id: "es/guia/carpetas.md";
+  slug: "es/guia/carpetas";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"es/guia/chat-contactos.md": {
+	id: "es/guia/chat-contactos.md";
+  slug: "es/guia/chat-contactos";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -374,9 +395,23 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"es/guia/novedades.md": {
-	id: "es/guia/novedades.md";
-  slug: "es/guia/novedades";
+"es/guia/inventario.md": {
+	id: "es/guia/inventario.md";
+  slug: "es/guia/inventario";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"es/guia/lanzamientos.md": {
+	id: "es/guia/lanzamientos.md";
+  slug: "es/guia/lanzamientos";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"es/guia/mensajes-predefinidos.md": {
+	id: "es/guia/mensajes-predefinidos.md";
+  slug: "es/guia/mensajes-predefinidos";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -398,6 +433,20 @@ declare module 'astro:content' {
 "es/guia/presupuestos.md": {
 	id: "es/guia/presupuestos.md";
   slug: "es/guia/presupuestos";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"es/guia/regiones.md": {
+	id: "es/guia/regiones.md";
+  slug: "es/guia/regiones";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"es/guia/vehiculos.md": {
+	id: "es/guia/vehiculos.md";
+  slug: "es/guia/vehiculos";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
